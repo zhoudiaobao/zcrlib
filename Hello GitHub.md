@@ -1,6 +1,6 @@
 # Hello GitHub
 ## edits
-=====
+
 ```C
 #include<stdio.h>
 
